@@ -1,0 +1,8 @@
+# Large files
+*.zip
+*.geojson
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
